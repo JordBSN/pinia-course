@@ -10,6 +10,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/vue-fontawesome": "^3.0.3",
+    "@vueuse/core": "^10.4.1",
     "lodash": "^4.17.21",
     "pinia": "^2.1.6",
     "vue": "^3.3.4"
