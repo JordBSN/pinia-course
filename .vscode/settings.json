@@ -1,0 +1,36 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "workbench.colorCustomizations": {
+    "[Tokyo Night Light]": {
+      "editor.selectionBackground": "#3D59A1",
+      "editor.selectionHighlightBackground": "#3D59A1"
+    },
+    "[Tokyo Night Storm]": {
+      "editor.selectionBackground": "#3D59A1",
+      "editor.selectionHighlightBackground": "#3D59A1"
+    },
+    "[Tokyo Night]": {
+      "editor.selectionBackground": "#3D59A1",
+      "editor.selectionHighlightBackground": "#3D59A1"
+    },
+    "activityBar.activeBackground": "#fdf5ea",
+    "activityBar.background": "#fdf5ea",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#11af6c",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#fdf5ea",
+    "statusBarItem.hoverBackground": "#f5cb8c",
+    "statusBarItem.remoteBackground": "#f9e0bb",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#f9e0bb",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#f9e0bb99",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "F9E0BB"
+}

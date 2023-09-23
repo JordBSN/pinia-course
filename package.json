@@ -1,0 +1,28 @@
+{
+  "name": "pinia-course",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "lodash": "^4.17.21",
+    "pinia": "^2.1.6",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.10.2",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.49.0",
+    "eslint-config-prettier": "^8.10.0",
+    "eslint-plugin-vue": "^8.7.1",
+    "postcss": "^8.4.30",
+    "prettier": "2.4.1",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.9.16"
+  }
+}
